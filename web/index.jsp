@@ -11,8 +11,6 @@
           var url = this.href;
           var method = "GET";
 
-          var newval = "123";
-
           request.open(method,url);
           request.send("hsdjlajjdljflaj;lsdkjlf;ja;ljdf;lj;ajd");
 
@@ -24,6 +22,7 @@
     </script>
   </head>
   <body>
-      <a href="DealData">DealData</a>
+    </a href="www.baidu.com">baidu</a>
+      <a href="/DealData">DealData</a>
   </body>
 </html>
