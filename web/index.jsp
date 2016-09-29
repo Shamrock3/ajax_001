@@ -22,6 +22,7 @@
     </script>
   </head>
   <body>
+    </a href="www.baidu.com">baidu</a>
       <a href="/DealData">DealData</a>
   </body>
 </html>
